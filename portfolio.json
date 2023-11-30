@@ -9,7 +9,7 @@
             "name": "Why we should Team Up"
         }
     ],
-    "me_img": "https://www.dropbox.com/scl/fi/u05v1wlt7piwulltnkd33/amit.png?rlkey=425go3tpmxjebm41802yihs20\\u0026dl=0",
+    "me_img": "https://www.dropbox.com/scl/fi/u05v1wlt7piwulltnkd33/amit.png?rlkey=425go3tpmxjebm41802yihs20&dl=0",
     "contact": {
         "email": "kairon007@gmail.com",
         "links": [
@@ -32,7 +32,7 @@
             "overview": "A custom device that connects and controls all your smart home devices.",
             "challenges": "-Integrated RESTful APIs, web sockets, and third-partylibraries to enhance application functionality.\n-Writing UI widgets from scratch, resulting in a 40%boost in user interactions",
             "screenshots": [
-                "https://www.dropbox.com/scl/fi/i0dff1fg7xnjr4prpfw2z/Josh1.png?rlkey=p18hoeg5ckrfwnrh3sebi70qm\\u0026dl=0"
+                "https://www.dropbox.com/scl/fi/i0dff1fg7xnjr4prpfw2z/Josh1.png?rlkey=p18hoeg5ckrfwnrh3sebi70qm&dl=0"
             ],
             "playstore_link": "https://play.google.com/store/apps/details?id=com.jstarllc.josh"
         },
@@ -42,7 +42,7 @@
             "overview": "Order Drinks right from the comfort of your home !",
             "challenges": "- Upgrading from the buggy clean architecture to MVP.\n- Rewrote Baseclasses, eliminated boilerplate code and refactored code wherever necessary.",
             "screenshots": [
-                "https://www.dropbox.com/scl/fi/lb8i8t9dm5zhng1jjso2n/klink.png?rlkey=ncp7ghlcght9xpbp7mcpio041\\u0026dl=0"
+                "https://www.dropbox.com/scl/fi/lb8i8t9dm5zhng1jjso2n/klink.png?rlkey=ncp7ghlcght9xpbp7mcpio041&dl=0"
             ]
         },
         {
@@ -51,9 +51,9 @@
             "overview": "Introducing the first copy proof QR Code",
             "challenges": "-Updating the cameras api to v2 when the entire algorithm of secure graphic was based on api v1\nSupporting dynamic products and attributes in the SCM tagging function\nCollaborated with iOS development team to implement cross-platform functionalities,streamlining the development process and reducing time-to-market by 20%.",
             "screenshots": [
-                "https://www.dropbox.com/scl/fi/95tj6ur94acyqb19dpzlg/scantrust.png?rlkey=81wngr9p3qhg4bmon7mmna4qh\\u0026dl=0"
+                "https://www.dropbox.com/scl/fi/95tj6ur94acyqb19dpzlg/scantrust.png?rlkey=81wngr9p3qhg4bmon7mmna4qh&dl=0"
             ],
-            "playstore_link": "https://play.google.com/store/apps/details?id=com.scantrust.android.st\\u0026hl=en"
+            "playstore_link": "https://play.google.com/store/apps/details?id=com.scantrust.android.st&hl=en"
         },
         {
             "info": "Addressing School Shooting Incidents",
@@ -61,7 +61,7 @@
             "overview": "Bringing safety in your own hands",
             "challenges": "-Implemented security features and functionality for Android and iOS applications using Flutter\nIntegrated Firebase APIs and third-party libraries to enhance application functionality\nIntegrated Google Maps API and Firebase cloud messaging to enhance application functionality \nImproved Load time by 21% and revamped the user interface, leading to a25%increase in user engagement and a 15% decrease in bounce rates,",
             "screenshots": [
-                "https://www.dropbox.com/scl/fi/rrnn9c5103l63xevv91ne/sv1.png?rlkey=xdoc6pczdb7rvi1ue915ltopn\\u0026dl=0"
+                "https://www.dropbox.com/scl/fi/rrnn9c5103l63xevv91ne/sv1.png?rlkey=xdoc6pczdb7rvi1ue915ltopn&dl=0"
             ],
             "playstore_link": ""
         },
@@ -71,10 +71,10 @@
             "overview": "GigLabor offers a platform that makes it simple for both contractors and labor to find each other.!",
             "challenges": "- Needed to fix multiple network requests for simple tasks.\n- Parse CloudCode was used to reduce number of simultaneous network requests.",
             "screenshots": [
-                "https://www.dropbox.com/scl/fi/jd7ci99426m38kcs6z7lc/giglabor.png?rlkey=bas23di37yn88pm5vit3bl3sz\\u0026dl=0"
+                "https://www.dropbox.com/scl/fi/jd7ci99426m38kcs6z7lc/giglabor.png?rlkey=bas23di37yn88pm5vit3bl3sz&dl=0"
             ],
             "playstore_link": ""
         }
     ],
-    "splash_img": "https://www.dropbox.com/scl/fi/b8glg7ch72b05706u7xbp/splash.jpg?rlkey=x4ygxbodui1kt1yr3xqderg72\\u0026dl=0"
+    "splash_img": "https://www.dropbox.com/scl/fi/b8glg7ch72b05706u7xbp/splash.jpg?rlkey=x4ygxbodui1kt1yr3xqderg72&dl=0"
 }
