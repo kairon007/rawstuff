@@ -43,7 +43,8 @@
             "challenges": "- Upgrading from the buggy clean architecture to MVP.\n- Rewrote Baseclasses, eliminated boilerplate code and refactored code wherever necessary.",
             "screenshots": [
                 "https://www.dropbox.com/scl/fi/lb8i8t9dm5zhng1jjso2n/klink.png?rlkey=ncp7ghlcght9xpbp7mcpio041&dl=0"
-            ]
+            ],
+             "playstore_link": ""
         },
         {
             "info": "Counterfeit Detection on the go",
