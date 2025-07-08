@@ -27,10 +27,30 @@
     "about_me": "Dynamic and results-driven Kotlin Multiplatform and Android Engineer with over eleven years\nof experience, transitioning from freelancing to impactful startup roles and now evolving into a\nvisionary product owner and founder. Spearheaded impactful projects like Safe2Marry and Actionz,\nleveraging expertise in Kotlin Multiplatform, Flutter, and AI/ML integration to deliver scalable,\nuser-centric solutions. Adept at building cross-platform apps with robust monetization, real-time\nanalytics, and secure authentication, with a passion for creating products that empower users and\nfoster growth.",
     "projects": [
         {
+            "info": "A mobile-first legal-tech app empowering Indian men with tools to make safer marital decisions.",
+            "name": "Safe2Marry",
+            "overview": "Alimony calculators, legal roadmaps, fraud detection, and AI-powered insights wrapped in a privacy-respecting design.",
+            "challenges": "- Built with Flutter and Firebase (Auth, Firestore, Push Notifications)\n- Used Google Cloud AI APIs for predictive analytics\n- Integrated RevenueCat and AdMob for monetization\n- Achieved 10,000+ downloads within six months",
+            "screenshots": [
+                "https://kairon007.github.io/rawstuff/s2m.png"
+            ],
+            "playstore_link": "https://play.google.com/store/apps/details?id=com.safe2marry.app"
+        },
+        {
+            "info": "AI-powered life assistant that turns thoughts into action plans.",
+            "name": "Actionz",
+            "overview": "Cross-platform productivity app built using Kotlin Multiplatform, Jetpack Compose, and OpenAI APIs.",
+            "challenges": "- Real-time data syncing via Firebase\n- Modular architecture using Decompose and Essenty\n- Monetized via RevenueCat and AdMob\n- Integrated OpenAI Client for intelligent content generation",
+            "screenshots": [
+                "https://kairon007.github.io/rawstuff/actionz.png"
+            ],
+            "playstore_link": "https://play.google.com/store/apps/details?id=com.actionz.app"
+        }   ,
+        {
             "info": "Privacy Focused Home Automation and Voice Control",
             "name": "Josh.ai",
             "overview": "A custom device that connects and controls all your smart home devices.",
-            "challenges": "-Integrated RESTful APIs, web sockets, and third-partylibraries to enhance application functionality.\n-Writing UI widgets from scratch, resulting in a 40%boost in user interactions",
+            "challenges": "-Integrated RESTful APIs, web sockets, and third-party libraries to enhance application functionality.\n-Writing UI widgets from scratch, resulting in a 40%boost in user interactions",
             "screenshots": [
                 "https://kairon007.github.io/rawstuff/Josh1.png"
             ],
