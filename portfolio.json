@@ -98,7 +98,7 @@
             "challenges": "- Implemented security features and functionality for Android and iOS applications using Flutter\n- Integrated Firebase APIs and third-party libraries to enhance application functionality\n- Integrated Google Maps API and Firebase Cloud Messaging to enhance application functionality\n- Improved load time by 21% and revamped the user interface, leading to a 25% increase in user engagement and a 15% decrease in bounce rates",
             "screenshots": [
                 "https://kairon007.github.io/rawstuff/sv1.png",
-                "https://kairon007.github.io/rawstuff/sv1_ios.png"
+                "https://kairon007.github.io/rawstuff/sv1_ios.jpg"
             ],
             "playstore_link": "",
             "appstore_link": "",
@@ -110,8 +110,8 @@
             "overview": "GigLabor offers a platform that makes it simple for both contractors and labor to find each other!",
             "challenges": "- Needed to fix multiple network requests for simple tasks.\n- Parse CloudCode was used to reduce number of simultaneous network requests.",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/giglabor.png",
-                "https://kairon007.github.io/rawstuff/giglabor_ios.png"
+                "https://kairon007.github.io/rawstuff/giglabor_ios.jpg",
+                "https://kairon007.github.io/rawstuff/giglabor_ios.jpg"
             ],
             "playstore_link": "",
             "appstore_link": "",
