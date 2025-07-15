@@ -36,7 +36,7 @@
                 "https://kairon007.github.io/rawstuff/s2m_ios.png"
             ],
             "playstore_link": "https://play.google.com/store/apps/details?id=com.appzden.safe2marry",
-            "appstore_link": "https://apps.apple.com/app/safe2marry/id1234567890",
+            "appstore_link": "https://apps.apple.com/app/id6742997364",
             "tags": ["Flutter", "Firebase", "Google Cloud AI", "RevenueCat", "AdMob"]
         },
         {
@@ -49,7 +49,7 @@
                 "https://kairon007.github.io/rawstuff/actionz_ios.png"
             ],
             "playstore_link": "https://play.google.com/store/apps/details?id=com.appzden.actionz.android",
-            "appstore_link": "https://apps.apple.com/app/actionz/id1234567891",
+            "appstore_link": "https://apps.apple.com/us/app/action-the-magic-word/id6738357620",
             "tags": ["Kotlin Multiplatform", "Jetpack Compose", "Firebase", "OpenAI", "RevenueCat", "AdMob", "Decompose", "Essenty"]
         },
         {
@@ -62,7 +62,7 @@
                 "https://kairon007.github.io/rawstuff/josh_ios.jpg"
             ],
             "playstore_link": "https://play.google.com/store/apps/details?id=com.jstarllc.josh",
-            "appstore_link": "https://apps.apple.com/app/josh-ai/id1234567892",
+            "appstore_link": "https://apps.apple.com/us/app/josh-home-intelligence/id1024805681",
             "tags": ["RESTful APIs", "Web Sockets", "Custom UI"]
         },
         {
@@ -74,8 +74,8 @@
                 "https://kairon007.github.io/rawstuff/klink.png",
                 "https://kairon007.github.io/rawstuff/klink_ios.png"
             ],
-            "playstore_link": "",
-            "appstore_link": "",
+            "playstore_link": "https://appadvice.com/app/klink-delivery/805369766",
+            "appstore_link": "https://appadvice.com/app/klink-delivery/805369766",
             "tags": ["MVP Architecture", "Android"]
         },
         {
@@ -88,7 +88,7 @@
                 "https://kairon007.github.io/rawstuff/scantrust_ios.png"
             ],
             "playstore_link": "https://play.google.com/store/apps/details?id=com.scantrust.android.st&hl=en",
-            "appstore_link": "https://apps.apple.com/app/scantrust/id1234567893",
+            "appstore_link": "https://apps.apple.com/us/app/scantrust/id1090793367",
             "tags": ["Camera API", "Cross-Platform", "QR Code"]
         },
         {
