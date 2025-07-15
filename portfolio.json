@@ -105,7 +105,7 @@
             "tags": ["Flutter", "Firebase", "Google Maps API", "Firebase Cloud Messaging"]
         },
         {
-            "info": "Contractors finding Labor & Labor finding Gigs.",
+            "info": "Contractors finding Labor & Labor finding Gigs.",s
             "name": "GigLabor",
             "overview": "GigLabor offers a platform that makes it simple for both contractors and labor to find each other!",
             "challenges": "- Needed to fix multiple network requests for simple tasks.\n- Parse CloudCode was used to reduce number of simultaneous network requests.",
