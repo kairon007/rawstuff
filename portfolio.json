@@ -1,11 +1,11 @@
 {
     "pages": [
         {
-            "info": "<b>Specialization</b>\n\nMobile based Product Development\nConsumer and Enterprise social apps\nE-Commerce solutions\nUserexperience design\nQualitative Analysis \n\n<b>Verticals I’ve worked with</b>\n\nEducation\nE-Commerce\nReligion and Spirituality\nTravel\nEmployment\nEntertainment\nNews\n",
+            "info": "<b>Specialization</b>\n\nMobile based Product Development\nConsumer and Enterprise social apps\nE-Commerce solutions\nUser experience design\nQualitative Analysis \n\n<b>Verticals I’ve worked with</b>\n\nEducation\nE-Commerce\nReligion and Spirituality\nTravel\nEmployment\nEntertainment\nNews\n",
             "name": "Things I worked on"
         },
         {
-            "info": "\n\nAbility to work smoothly across different cross teams having designers, business analysts, project managers etc.\nAble to work across agile development methodologies\nYou can have my inputs across some key elements like app flow improvement, database handling, push notifications, web backend handling, code reviews etc. throughout the project.\nGot an experience of working with different demographics like America, Russia, Australia, Asia, Singapore.\nOver communication is never too bad and that’s what I believe in. In terms of communication you’ll find me closer than your spouse\nRegularly update myself and clients on what’s new (Android 16.0 is out by the way!)",
+            "info": "\n\nAbility to work smoothly across different cross teams having designers, business analysts, project managers etc.\nAble to work across agile development methodologies\nYou can have my inputs across some key elements like app flow improvement, database handling, push notifications, web backend handling, code reviews etc. throughout the project.\nGot an experience of working with different demographics like America, Russia, Australia, Asia, Singapore.\nOver communication is never too bad and that’s what I believe in. In terms of communication you’ll find me closer than your spouse\nRegularly update myself and clients on what’s new in mobile development!",
             "name": "Why we should Team Up"
         }
     ],
@@ -24,7 +24,7 @@
         ],
         "phone": "+91 964-637-0001"
     },
-    "about_me": "Dynamic and results-driven Kotlin Multiplatform and Android Engineer with over eleven years\nof experience, transitioning from freelancing to impactful startup roles and now evolving into a\nvisionary product owner and founder. Spearheaded impactful projects like Safe2Marry and Actionz,\nleveraging expertise in Kotlin Multiplatform, Flutter, and AI/ML integration to deliver scalable,\nuser-centric solutions. Adept at building cross-platform apps with robust monetization, real-time\nanalytics, and secure authentication, with a passion for creating products that empower users and\nfoster growth.",
+    "about_me": "Dynamic and results-driven Kotlin Multiplatform and iOS/Android Engineer with over eleven years\nof experience, transitioning from freelancing to impactful startup roles and now evolving into a\nvisionary product owner and founder. Spearheaded impactful projects like Safe2Marry and Actionz,\nleveraging expertise in Kotlin Multiplatform, Flutter, and AI/ML integration to deliver scalable,\nuser-centric solutions. Adept at building cross-platform apps with robust monetization, real-time\nanalytics, and secure authentication, with a passion for creating products that empower users and\nfoster growth.",
     "projects": [
         {
             "info": "A mobile-first legal-tech app empowering Indian men with tools to make safer marital decisions.",
@@ -32,9 +32,12 @@
             "overview": "Alimony calculators, legal roadmaps, fraud detection, and AI-powered insights wrapped in a privacy-respecting design.",
             "challenges": "- Built with Flutter and Firebase (Auth, Firestore, Push Notifications)\n- Used Google Cloud AI APIs for predictive analytics\n- Integrated RevenueCat and AdMob for monetization\n- Achieved 10,000+ downloads within six months",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/s2m.png"
+                "https://kairon007.github.io/rawstuff/s2m.png",
+                "https://kairon007.github.io/rawstuff/s2m_ios.png"
             ],
-            "playstore_link": "https://play.google.com/store/apps/details?id=com.appzden.safe2marry"
+            "playstore_link": "https://play.google.com/store/apps/details?id=com.appzden.safe2marry",
+            "appstore_link": "https://apps.apple.com/app/safe2marry/id1234567890",
+            "tags": ["Flutter", "Firebase", "Google Cloud AI", "RevenueCat", "AdMob"]
         },
         {
             "info": "AI-powered life assistant that turns thoughts into action plans.",
@@ -42,59 +45,77 @@
             "overview": "Cross-platform productivity app built using Kotlin Multiplatform, Jetpack Compose, and OpenAI APIs.",
             "challenges": "- Real-time data syncing via Firebase\n- Modular architecture using Decompose and Essenty\n- Monetized via RevenueCat and AdMob\n- Integrated OpenAI Client for intelligent content generation",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/actionz.png"
+                "https://kairon007.github.io/rawstuff/actionz.png",
+                "https://kairon007.github.io/rawstuff/actionz_ios.png"
             ],
-            "playstore_link": "https://play.google.com/store/apps/details?id=com.appzden.actionz.android"
-        }   ,
+            "playstore_link": "https://play.google.com/store/apps/details?id=com.appzden.actionz.android",
+            "appstore_link": "https://apps.apple.com/app/actionz/id1234567891",
+            "tags": ["Kotlin Multiplatform", "Jetpack Compose", "Firebase", "OpenAI", "RevenueCat", "AdMob", "Decompose", "Essenty"]
+        },
         {
             "info": "Privacy Focused Home Automation and Voice Control",
             "name": "Josh.ai",
             "overview": "A custom device that connects and controls all your smart home devices.",
-            "challenges": "-Integrated RESTful APIs, web sockets, and third-party libraries to enhance application functionality.\n-Writing UI widgets from scratch, resulting in a 40%boost in user interactions",
+            "challenges": "- Integrated RESTful APIs, web sockets, and third-party libraries to enhance application functionality.\n- Writing UI widgets from scratch, resulting in a 40% boost in user interactions",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/Josh1.png"
+                "https://kairon007.github.io/rawstuff/Josh1.png",
+                "https://kairon007.github.io/rawstuff/josh_ios.png"
             ],
-            "playstore_link": "https://play.google.com/store/apps/details?id=com.jstarllc.josh"
+            "playstore_link": "https://play.google.com/store/apps/details?id=com.jstarllc.josh",
+            "appstore_link": "https://apps.apple.com/app/josh-ai/id1234567892",
+            "tags": ["RESTful APIs", "Web Sockets", "Custom UI"]
         },
         {
-            "info": "An Alcohol Delivery startup based in washington DC.",
+            "info": "An Alcohol Delivery startup based in Washington DC.",
             "name": "Klink Delivery",
-            "overview": "Order Drinks right from the comfort of your home !",
+            "overview": "Order Drinks right from the comfort of your home!",
             "challenges": "- Upgrading from the buggy clean architecture to MVP.\n- Rewrote Baseclasses, eliminated boilerplate code and refactored code wherever necessary.",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/klink.png"
+                "https://kairon007.github.io/rawstuff/klink.png",
+                "https://kairon007.github.io/rawstuff/klink_ios.png"
             ],
-             "playstore_link": ""
+            "playstore_link": "",
+            "appstore_link": "",
+            "tags": ["MVP Architecture", "Android"]
         },
         {
             "info": "Counterfeit Detection on the go",
             "name": "Scantrust",
             "overview": "Introducing the first copy proof QR Code",
-            "challenges": "-Updating the cameras api to v2 when the entire algorithm of secure graphic was based on api v1\nSupporting dynamic products and attributes in the SCM tagging function\nCollaborated with iOS development team to implement cross-platform functionalities,streamlining the development process and reducing time-to-market by 20%.",
+            "challenges": "- Updating the cameras API to v2 when the entire algorithm of secure graphic was based on API v1\n- Supporting dynamic products and attributes in the SCM tagging function\n- Collaborated with iOS development team to implement cross-platform functionalities, streamlining the development process and reducing time-to-market by 20%.",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/scantrust.png"
+                "https://kairon007.github.io/rawstuff/scantrust.png",
+                "https://kairon007.github.io/rawstuff/scantrust_ios.png"
             ],
-            "playstore_link": "https://play.google.com/store/apps/details?id=com.scantrust.android.st&hl=en"
+            "playstore_link": "https://play.google.com/store/apps/details?id=com.scantrust.android.st&hl=en",
+            "appstore_link": "https://apps.apple.com/app/scantrust/id1234567893",
+            "tags": ["Camera API", "Cross-Platform", "QR Code"]
         },
         {
             "info": "Addressing School Shooting Incidents",
             "name": "School Village",
             "overview": "Bringing safety in your own hands",
-            "challenges": "-Implemented security features and functionality for Android and iOS applications using Flutter\nIntegrated Firebase APIs and third-party libraries to enhance application functionality\nIntegrated Google Maps API and Firebase cloud messaging to enhance application functionality \nImproved Load time by 21% and revamped the user interface, leading to a25%increase in user engagement and a 15% decrease in bounce rates,",
+            "challenges": "- Implemented security features and functionality for Android and iOS applications using Flutter\n- Integrated Firebase APIs and third-party libraries to enhance application functionality\n- Integrated Google Maps API and Firebase Cloud Messaging to enhance application functionality\n- Improved load time by 21% and revamped the user interface, leading to a 25% increase in user engagement and a 15% decrease in bounce rates",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/sv1.png"
+                "https://kairon007.github.io/rawstuff/sv1.png",
+                "https://kairon007.github.io/rawstuff/sv1_ios.png"
             ],
-            "playstore_link": ""
+            "playstore_link": "",
+            "appstore_link": "",
+            "tags": ["Flutter", "Firebase", "Google Maps API", "Firebase Cloud Messaging"]
         },
         {
-            "info": "Contractors finding Labor \\u0026 Labor finding Gigs.",
+            "info": "Contractors finding Labor & Labor finding Gigs.",
             "name": "GigLabor",
-            "overview": "GigLabor offers a platform that makes it simple for both contractors and labor to find each other.!",
+            "overview": "GigLabor offers a platform that makes it simple for both contractors and labor to find each other!",
             "challenges": "- Needed to fix multiple network requests for simple tasks.\n- Parse CloudCode was used to reduce number of simultaneous network requests.",
             "screenshots": [
-                "https://kairon007.github.io/rawstuff/giglabor.png"
+                "https://kairon007.github.io/rawstuff/giglabor.png",
+                "https://kairon007.github.io/rawstuff/giglabor_ios.png"
             ],
-            "playstore_link": ""
+            "playstore_link": "",
+            "appstore_link": "",
+            "tags": ["Parse CloudCode", "Network Optimization"]
         }
     ],
     "splash_img": "https://kairon007.github.io/rawstuff/splash.jpg"
